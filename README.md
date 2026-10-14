@@ -5,9 +5,9 @@ A customizable Flutter package that provides a fluid, S-curve folder-style toggl
 ## Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhooPwintSone/curve_toggle_tabs/main/screenshots/login_tab.png" width="320" alt="Log In Tab Active" />
+  <img src="https://raw.githubusercontent.com/PhooPwintSone/curved_toggle_tabs/main/screenshots/login_tab.png" width="320" alt="Log In Tab Active" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PhooPwintSone/curve_toggle_tabs/main/screenshots/signup_tab.png" width="320" alt="Sign Up Tab Active" />
+  <img src="https://raw.githubusercontent.com/PhooPwintSone/curved_toggle_tabs/main/screenshots/signup_tab.png" width="320" alt="Sign Up Tab Active" />
 </p>
 
 ## Features
@@ -19,18 +19,15 @@ A customizable Flutter package that provides a fluid, S-curve folder-style toggl
 
 ## Installation
 
-Add `curve_toggle_tabs` to your `pubspec.yaml`:
+Add `curved_toggle_tabs` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  curve_toggle_tabs: ^0.0.1
+  curved_toggle_tabs: ^0.0.1
 ```
 
-Or run:
-fsf
-
 ```bash
-flutter pub add curve_toggle_tabs
+flutter pub add curved_toggle_tabs
 ```
 
 ## Usage
@@ -38,7 +35,7 @@ flutter pub add curve_toggle_tabs
 Import the package:
 
 ```dart
-import 'package:curve_toggle_tabs/curve_toggle_tabs.dart';
+import 'package:curved_toggle_tabs/curved_toggle_tabs.dart';
 ```
 
 Wrap your two views inside `CurveToggleTabs`:
@@ -94,3 +91,4 @@ CurveToggleTabs(
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
