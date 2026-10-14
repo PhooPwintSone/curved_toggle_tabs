@@ -1,6 +1,6 @@
 name: curved_toggle_tabs
 description: A customizable Flutter widget that provides smooth S-curve folder-style toggle tabs with animated transitions between views.
-version: 0.0.1
+version: 0.0.2
 
 homepage: https://github.com/PhooPwintSone/curved_toggle_tabs
 repository: https://github.com/PhooPwintSone/curved_toggle_tabs
